@@ -62,7 +62,22 @@
 // Чом вас лихо не приспало,
 // Як свою дитину?...`;
 
+// Вариант 1
 // console.log(text.split('\n').length)
+
+
+// Вариант 2
+// var count = 1;
+// var pos = text.indexOf('\n');
+
+
+// while (pos !== -1) {
+//      count += 1;
+//   pos = text.indexOf('\n',  pos + 1);
+// }
+
+// console.log (count)
+
 
 /**
  * Example 13
